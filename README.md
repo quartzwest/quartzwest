@@ -27,10 +27,13 @@
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=light)
+
 
 ## 💼 Projects
 - **[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)** : 학과 사이트입니다.
 - **[GitHub 링크](https://github.com/quartzwest/hello)** : GitHub 링크 중 하나입니다.
+- 추후 공모전 참가 예정.
 ## 🤝 Collaboration
 - 제 프로젝트에 관심 있으시면 언제든지 아래로 연락주세요! 여러분의 협업과 참여를 환영합니다.
 
@@ -41,7 +44,6 @@
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true) 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
 
-## 🌹 GitHub Streak  🌺 Top Languages
+## 🌹 GitHub Streak 
 
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=dark)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=light)
-
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=dark) 
