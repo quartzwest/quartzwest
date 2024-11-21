@@ -42,9 +42,9 @@
 
 ## 🌹 GitHub Streak
 
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=dark)
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=light)
 
 ## 🌺 Top Languages
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=light)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=dark)
 
