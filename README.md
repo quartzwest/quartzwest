@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 ## 💼 Projects
-**[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)**: 학과 사이트입니다.
+**[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)** : 학과 사이트입니다.
 
 ## 🤝 Collaboration
 - 제 프로젝트에 관심 있으시면 언제든지 [연락](si2507923@gmail.com) 주세요!
