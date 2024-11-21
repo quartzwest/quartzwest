@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Backend: Node.js, Express  
 - Database: MySQL, MongoDB
 ## 💼 Projects
-**[프로젝트 이름](프로젝트 링크)**: 프로젝트 간단 설명 (사용 기술)
+**[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)**: 학과 사이트입니다.
 
 ## 🤝 Collaboration
 - 제 프로젝트에 관심 있으시면 언제든지 [연락](si2507923@gmail.com) 주세요!
