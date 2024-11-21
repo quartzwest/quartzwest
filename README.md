@@ -40,11 +40,7 @@
 ## 🔗 GitHub Stats  
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true)      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
 
-## 🌹 GitHub Streak
+## 🌹 GitHub Streak  🌺 Top Languages
 
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=light)
-
-## 🌺 Top Languages
-
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=dark)
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=dark)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=light)
 
