@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
 ## 👩‍💻 About Me
 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 이서경입니다.  
 이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
@@ -36,6 +40,6 @@ Here are some ideas to get you started:
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://youtube.com/channel/UCBIvR-Cd5p5bi82pLu9n94w?si=Ne6HmSBR0j8AruRh)
 
 ## 🔗 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quartz&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartze&layout=compact)  
 
