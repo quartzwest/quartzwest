@@ -42,11 +42,11 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
 
-- ## GitHub Streak
+## 🌹 GitHub Streak
 
 - ![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=radical)
 
-## Top Languages
+## 🌺 Top Languages
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=radical)
 
