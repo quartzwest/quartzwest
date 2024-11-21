@@ -24,12 +24,12 @@
 - Database: MySQL, MongoDB
 
 ## 📚 Tech Stack
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 
 ## 💼 Projects
-**[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)** : 학과 사이트입니다.
+- **[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)** : 학과 사이트입니다.
 
 ## 🤝 Collaboration
 - 제 프로젝트에 관심 있으시면 언제든지 아래로 연락주세요!
