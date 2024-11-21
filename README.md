@@ -30,7 +30,7 @@
 
 ## 💼 Projects
 - **[예술공학대학](https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=940)** : 학과 사이트입니다.
-
+- **[GitHub 링크](https://github.com/quartzwest/hello)** : GitHub 링크 중 하나입니다.
 ## 🤝 Collaboration
 - 제 프로젝트에 관심 있으시면 언제든지 아래로 연락주세요!
 
@@ -39,4 +39,4 @@
 
 ## 🔗 GitHub Stats  
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quartze&show_icons=true)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartze&layout=compact)  ﻿
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz&layout=compact)  
