@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Frontend: React, HTML, CSS, JavaScript  
 - Backend: Node.js, Express  
 - Database: MySQL, MongoDB  
-
+## 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](si2507923@gmail.com)
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/roszily)
