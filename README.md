@@ -15,9 +15,9 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fquartzwest&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
 ## 👩‍💻 About Me
-- 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 이서경입니다.  
-- 이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
+- 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 이서경입니다.
 - 저는 예술, 스포츠를 비롯한 다양한 취미 생활을 즐기고 있는 20살입니다.
+- 이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
 
 ## 🛠 Skills
 - Frontend: React, HTML, CSS, JavaScript  
