@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://youtube.com/channel/UCBIvR-Cd5p5bi82pLu9n94w?si=Ne6HmSBR0j8AruRh)
 
 ## 🔗 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quartze&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quartz&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartze&layout=compact)  
 
