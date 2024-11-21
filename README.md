@@ -43,13 +43,13 @@
 
   ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quartz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
 
 - ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Quartz&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=quartzwest&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=radical)
 
