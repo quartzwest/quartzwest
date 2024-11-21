@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👩‍💻 About Me
+안녕하세요! 저는 열정적인 개발자 지망생 **[이름]**입니다.  
+## 🛠 Skills
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MySQL, MongoDB  
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](si2507923@gmail.com)
 
