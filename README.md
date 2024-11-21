@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👩‍💻 About Me
-안녕하세요! 저는 열정적인 개발자 지망생 **[이름]**입니다.  
-저는 사람들에게 도움이 되는 소프트웨어를 만드는 개발자가 되고 싶습니다.  
+안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 이서경입니다.  
+이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
 
 ## 🛠 Skills
 - Frontend: React, HTML, CSS, JavaScript  
