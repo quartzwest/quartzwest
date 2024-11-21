@@ -19,12 +19,9 @@
 - 저는 예술, 스포츠를 비롯한 다양한 취미 생활을 즐기고 있는 20살입니다.
 - 이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
 
-## 🛠 Skills
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, Express  
-- Database: MySQL, MongoDB
+## 🛠 Skills   📚 Tech Stack   🌺 Top Languages
+- Frontend / Backend / Database
 
-## 📚 Tech Stack   🌺 Top Languages
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
