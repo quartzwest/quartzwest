@@ -39,4 +39,12 @@
 
 ## 🔗 GitHub Stats  
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quartze&show_icons=true)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz&layout=compact)  
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz&layout=compact)
+- ## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=<your-username>&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
+
