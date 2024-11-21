@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Quartz!
 
-- 🐲 I’m currently learning on : ** [중앙대학교](https://www.cau.ac.kr/index.do)**
+- 🐲 I’m currently learning on : **[중앙대학교](https://www.cau.ac.kr/index.do)**
 - 🌱 I’m currently learning: **Python, C++**
 - 💎 I’m looking to collaborate on: **Improving our programming skills**
 - 🐤 I’m looking for help with: **Colleagues who will program with me**
