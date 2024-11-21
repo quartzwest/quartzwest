@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 - 제 프로젝트에 관심 있으시면 언제든지 [연락](si2507923@gmail.com) 주세요!
 
 ## 📫 Contact 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](si2507923@gmail.com)
-
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/roszily)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](si2507923@gmail.com)[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/roszily)
 
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ksruoa/profilecard/?igsh=b2s4cW56OXFxbW1u"/></a>
   
