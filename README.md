@@ -38,9 +38,7 @@
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:si25079231@gmail.com)](si2507923@gmail.com)    [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://blog.naver.com/roszily)    <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ksruoa/profilecard/?igsh=b2s4cW56OXFxbW1u"/></a>    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://youtube.com/channel/UCBIvR-Cd5p5bi82pLu9n94w?si=Ne6HmSBR0j8AruRh)
 
 ## 🔗 GitHub Stats  
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quartzwest&show_icons=true&theme=radical)
 
 ## 🌹 GitHub Streak
 
