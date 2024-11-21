@@ -17,17 +17,19 @@
 ## 👩‍💻 About Me
 - 안녕하세요! 저는 중앙대학교 예술공학부에 재학중인 이서경입니다.  
 - 이번 오픈소스프로그래밍 수업을 통해 개발자에 한층 더 다가갈 수 있었으면 좋겠습니다!
+- 저는 예술, 스포츠를 비롯한 다양한 취미 생활을 즐기고 있는 20살입니다.
 
 ## 🛠 Skills
 - Frontend: React, HTML, CSS, JavaScript  
 - Backend: Node.js, Express  
 - Database: MySQL, MongoDB
 
-## 📚 Tech Stack  🌺 Top Languages
+## 📚 Tech Stack   🌺 Top Languages
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quartzwest&layout=compact&theme=light)
+  - 아직은 미숙한 부분이 있으나 배워나가는 중입니다.
 
 
 ## 💼 Projects
