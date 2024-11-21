@@ -9,6 +9,20 @@
 - ❄️ Pronouns: **She/Her**
 - 💗 Fun fact: **I can memorize all my friends' MBTIs.**
 
+<img align="right" src="https://media.pitchfork.com/photos/6454f9ce60430f8f9be0fb09/master/pass/Tyler-the-Creator-Igor.jpg" height= "200" width="200"/> 
+<h1> Hi, I'm choi min chan
+</h1>
+<h2>interest</h2>
+🎶 dig music 🎶
+<p>
+<em>
+<h3>
+Content Creator at
+<a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
+2 by 2 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" /> </a>
+</h3>
+</em>
+
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
